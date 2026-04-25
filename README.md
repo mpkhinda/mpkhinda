@@ -1,5 +1,4 @@
-**👋 Hello!**  
-I'm Matt — an urban planner, designer, and strategist based in Brooklyn, NY. My work uses policy, data, and design to understand cities and help make them better for the people who live in them.
+**Hello!**  
+I'm Matt — a Brooklyn-based urban planner working across `policy`, `data`, and `design`. Mostly housing, land use, and infrastructure.
 
-**🔗 Elsewhere**
-[LinkedIn](https://www.linkedin.com/in/matthew-khinda/) · [Observable](https://observablehq.com/@mpkhinda)
+📈 [Observable](https://observablehq.com/@mpkhinda) · 🔗 [LinkedIn](https://www.linkedin.com/in/matthew-khinda/)
